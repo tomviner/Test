@@ -66,3 +66,11 @@ Download and install Vagrant from here:
 Download and install Vagrant from here:
 
 `http://downloads.vagrantup.com/ <http://downloads.vagrantup.com/>`_
+
+
+    `https://www.virtualbox.org/wiki/Download_Old_Builds_4_2`
+    
+    
+`https://www.virtualbox.org/wiki/Download_Old_Builds_4_2`
+
+`https://www.virtualbox.org/wiki/Download_Old_Builds_4_2`_
