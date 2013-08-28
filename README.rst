@@ -35,6 +35,11 @@ Titles are targets, too
 Implict references, like `Titles are 
 targets, too`_.
 
+----------------------------------------------------------
+
+(Python)[http://www.python.org/]
+
+[Python](http://www.python.org/)
 
 
 
