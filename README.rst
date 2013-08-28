@@ -8,7 +8,7 @@ External hyperlinks, like Python_.
 
 Plain text	Typical result
 Internal crossreferences, like example_.
-.. _map_visual.png:
+.. _map_visual.png
 
 This is an example crossreference target.
 
