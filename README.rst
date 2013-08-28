@@ -28,8 +28,11 @@ __ Python_
 
 
 Plain text	Typical result
+
+
 Titles are targets, too 
 ======================= 
+
 Implict references, like `Titles are 
 targets, too`_.
 
