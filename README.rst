@@ -39,7 +39,9 @@ targets, too`_.
 
 (Python)[http://www.python.org/]
 
-[Python](http://www.python.org/)
+[Python](map_visual.png)
 
+<a href="testRel/myLib">myLib/</a>
+<a href="map_visual.png">myLib/</a>
 
 
