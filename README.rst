@@ -1,3 +1,7 @@
+The site is then accessible at: http://172.27.5.2:9000/
+
+-----------------------------
+
 	Typical result
 External hyperlinks, like Python_.
 .. _Python: http://www.python.org/
