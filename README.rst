@@ -54,3 +54,15 @@ targets, too`_.
 `Python <map_visual.png>`_
 
 `Python <Test/blob/master/map_visual.png>`_
+
+--------------------------------------------------------
+
+Download and install Vagrant from here:
+
+    `http://downloads.vagrantup.com/ <http://downloads.vagrantup.com/>`
+    
+-----------------------------------------------------
+
+Download and install Vagrant from here:
+
+`http://downloads.vagrantup.com/ <http://downloads.vagrantup.com/>`
