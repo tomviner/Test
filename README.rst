@@ -42,6 +42,11 @@ targets, too`_.
 [Python](Test/blob/master/map_visual.png)
 
 <a href="testRel/myLib">myLib/</a>
+
 <a href="Test/blob/master/map_visual.png">myLib/</a>
 
+---------------------------------------------------------
 
+`Python <map_visual.png>`_
+
+`Python <Test/blob/master/map_visual.png>`_
