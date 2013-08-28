@@ -1,5 +1,5 @@
 	Typical result
-External hyperlinks, like Python.
+External hyperlinks, like Python_.
 .. _Python: http://www.python.org/
 
 
@@ -17,7 +17,7 @@ This is an example crossreference target.
 ---------------------------------------------------------
 
 Plain text	Typical result
-Python is `my favourite programming language`__.
+Python_ is `my favourite programming language`__.
 .. _Python: http://www.python.org/
 
 __ Python_
