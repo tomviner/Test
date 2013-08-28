@@ -17,8 +17,7 @@ This is an example crossreference target.
 ---------------------------------------------------------
 
 Plain text	Typical result
-Python_ is `my favourite 
-programming language`__.
+Python_ is `my favourite programming language`__.
 .. _Python: http://www.python.org/
 
 __ Python_
