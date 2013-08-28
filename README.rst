@@ -59,10 +59,10 @@ targets, too`_.
 
 Download and install Vagrant from here:
 
-    `http://downloads.vagrantup.com/ <http://downloads.vagrantup.com/>`
+    `http://downloads.vagrantup.com/ <http://downloads.vagrantup.com/>`_
     
 -----------------------------------------------------
 
 Download and install Vagrant from here:
 
-`http://downloads.vagrantup.com/ <http://downloads.vagrantup.com/>`
+`http://downloads.vagrantup.com/ <http://downloads.vagrantup.com/>`_
